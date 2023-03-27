@@ -26,7 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📚 Conceitos aprendidos no projeto
 
-- JSON.
 - Responsividade.
 - DOM.
 - Formulários.
