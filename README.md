@@ -30,6 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Responsividade.
 - DOM.
 - Formulários.
+- Variáveis.
 
 
 
